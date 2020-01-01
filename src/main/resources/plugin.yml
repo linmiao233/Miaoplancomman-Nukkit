@@ -1,0 +1,7 @@
+name: MiaoplancommanNK
+main: com.linmiao233.nukkitx.MiaoplancommanNK.Main
+version: 1.1.2
+author: linmiao233
+api: ["1.0.0"]
+description: 更多资源访问我们的官方网站http://bbs.i8mc.xyz
+website: http://bbs.i8mc.xyz
